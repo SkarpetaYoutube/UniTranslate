@@ -27,5 +27,5 @@
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoj-login/WhisPol.git
-   cd WhisPol
+   git clone https://github.com/SkarpetaYoutube/UniTranslate.git
+   cd UniTranslate
